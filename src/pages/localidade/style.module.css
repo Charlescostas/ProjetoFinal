@@ -1,0 +1,61 @@
+.localidade{
+    width: 926px;
+    height: 832px;
+    top: 186px;
+    left: 273px;
+    gap: 16px;
+    opacity: 0px;  
+}
+.containerMenu{
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    bottom: 0;
+    background-color: #c0baba;
+    width: 251px;
+    height: 832px;
+    gap: 0px;
+    opacity: 0px;
+    
+    -webkit-box-shadow: 1px 0px 8px 0px rgba(0, 0, 0, 0.71);
+    -moz-box-shadow: 1px 0px 8px 0px rgba(0, 0, 0, 0.71);
+    box-shadow: 1px 0px 8px 0px rgba(0, 0, 0, 0.71);
+}
+.containerMenu img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.container{
+    position: fixed;
+    left: 260px;
+    top: 0px;
+    bottom: 0;
+    background: #EFEFEF;
+    width: 100%;
+}
+
+
+.containerTitulo {
+    width: 224px;
+    height: 47px;
+    top: 64px;
+    left: 500px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.containerGrid{
+    margin-bottom: 1.5; 
+    width: 280px;
+    height: 45px;
+    top: 143px;
+    left: 272px;
+    gap: 2px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 1px;
+}
+
