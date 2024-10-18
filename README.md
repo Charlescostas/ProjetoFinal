@@ -51,10 +51,21 @@ Back End
 
 ## Instalando dependências necessárias do projeto Front End.
 
-Pelo terminal do VSCode entre no diretório do projeto /M3P-FrontEnd-Squad1
-e execute o linha de comando. O comando irá  instalar todas as dependências 
-necessárias para o projeto que se encontra no arquivo `package.json`
+Pelo terminal do VSCode entre no diretório do projeto `/M3P-FrontEnd-Squad1`
+e execute o linha de comando.
 
 ```bash
  npm install
 ```
+O comando irá  instalar todas as dependências 
+necessárias para o projeto que se encontra no arquivo `package.json`
+
+Após terminar a instalação das dependências, Execute aplicação em modo de desenvolvimento
+
+```
+  npm run dev
+```
+
+#### Variáveis de Ambiente
+
+O projeto contem algumas variáveis de ambiente para que ocorra o bom funcionamento que são encontradas no arquivo ` .env`
