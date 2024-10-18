@@ -37,16 +37,13 @@ e a ferramenta de versão [Git](https://git-scm.com)
 
 ### 
 
-## Clonando os projetos
+## Clonando o projeto
 
 Front End
 ```bash
   git clone https://github.com/FuturoDEV-Tubarao-V2/M3P-FrontEnd-Squad1.git
 ```
-Back End 
-```bash
-  git clone https://github.com/FuturoDEV-Tubarao-V2/M3P-BackEnd-Squad1.git
-```
+
 ### 
 
 ## Instalando dependências necessárias do projeto Front End.
@@ -69,3 +66,10 @@ Após terminar a instalação das dependências, Execute aplicação em modo de 
 #### Variáveis de Ambiente
 
 O projeto contem algumas variáveis de ambiente para que ocorra o bom funcionamento que são encontradas no arquivo ` .env`
+
+## ⚙ Instalação e execução do projeto Back End
+
+Acesse o [README](https://github.com/FuturoDEV-Tubarao-V2/M3P-BackEnd-Squad1/blob/develop/README.md) do projeto Back End
+
+
+# Funcionalidades
