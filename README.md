@@ -1,4 +1,4 @@
-<img src="src\assets\images\logo.png" alt="Logo"/>
+<img src="public\logo.png" alt="Logo" />
 
 
 <p align="center"> <strong> Projeto final referente curso FuturoDev Tubarão V2 </p>
@@ -73,3 +73,23 @@ Acesse o [README](https://github.com/FuturoDEV-Tubarao-V2/M3P-BackEnd-Squad1/blo
 
 
 # Funcionalidades
+
+- Dashboard com contador de totais cadastrados
+- Página de login
+- Cadastro de novo usuário
+- Cadastro de novo local de exercício
+- Cadastro de Feedbacks
+- Home com contador de totais cadastrados
+- Feedback e Lista de todos os locais cadastrados,
+- Lista de locais cadastrado
+- Lista de Feedbacks cadastrado
+
+<img src="src\assets\readme\dashboardLista.png" alt="Dashboard Lista"/>
+<img src="src\assets\readme\dashboardMapa.png" alt="Dashboard Mapa"/>
+<img src="src\assets\readme\usuario.png" alt="Cadastro Usuario"/>
+<img src="src\assets\readme\CadastroLocal.png" alt="Cadastro de Local"/>
+<img src="src\assets\readme\CadastroFeed.png" alt="Cadastro de Feedbacks"/>
+<img src="src\assets\readme\home.png" alt="Home"/>
+<img src="src\assets\readme\locais.png" alt="Lista de Locais"/>
+<img src="src\assets\readme\listaFeed.png" alt="Lista de Feedbacks"/>
+
