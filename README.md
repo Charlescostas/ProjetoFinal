@@ -79,8 +79,7 @@ Acesse o [README](https://github.com/FuturoDEV-Tubarao-V2/M3P-BackEnd-Squad1/blo
 - Cadastro de novo usuário
 - Cadastro de novo local de exercício
 - Cadastro de Feedbacks
-- Home com contador de totais cadastrados
-- Feedback e Lista de todos os locais cadastrados,
+- Home com contador de totais cadastrados, Feedback e Lista de todos os locais cadastrados,
 - Lista de locais cadastrado
 - Lista de Feedbacks cadastrado
 
